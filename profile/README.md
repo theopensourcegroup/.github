@@ -1,3 +1,3 @@
-#TOG (The Opensource Group)
+# TOG (The Opensource Group)
 
 Founded September 1, 2023.
