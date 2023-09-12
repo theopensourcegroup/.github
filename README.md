@@ -1,3 +1,3 @@
-#T.O.G. (The Opensource Group)
+#.github
 
-Founded September 1, 2023.
+Our profile README
