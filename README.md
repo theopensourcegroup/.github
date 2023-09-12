@@ -1,3 +1,3 @@
-#.github
+# .github
 
-Our profile README
+Our profile README.
